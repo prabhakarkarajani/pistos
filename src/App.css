@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  font-size: 1rem;
+  color: "#36312d";
+}
+.active {
+  border-bottom: 2px solid #f50514 !important;
+}
+.Dashboard {
+  height: 500px;
+  padding: 1rem;
+  background-color: d1d1d1;
+}
+.Footer {
+  border-top: 2px solid #dbdbdb !important;
+  padding: 1rem;
+  font-size: 1rem;
+  font-family: "Lato";
+  font-weight: 300;
+  margin-top: 50px;
+}
+
+.divBlock {
+  display: inline-block;
+  margin: 25px 15px;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
